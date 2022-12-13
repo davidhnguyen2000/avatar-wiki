@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'avatar-wiki'
+copyright = '2022, Northeastern University'
+author = 'Rui Luo'
 
 release = '0.1'
 version = '0.1.0'
