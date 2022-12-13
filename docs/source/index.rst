@@ -1,10 +1,13 @@
-Welcome to Lumache's documentation!
+Welcome to Avatar's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+All the technical documentation of the Northeastern Avatar robot is host here.
+For more general information of the system, please refer to our 
+`project website <https://robot.neu.edu/project/avatar/>`_.
+
+For avatar system start-up instructions, please refer to :doc:`/instructions`.
+
+You can check how to bleed the system properly at :ref:`bleed-system`.
 
 .. note::
 
@@ -15,4 +18,8 @@ Contents
 
 .. toctree::
 
-   usage
+   instructions
+   mechanical
+   control
+   network
+   mobile_base
