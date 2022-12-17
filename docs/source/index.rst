@@ -10,7 +10,7 @@ For avatar system start-up instructions, please refer to :doc:`/instructions`.
 
 You can check how to bleed the system properly at :ref:`bleed-system`.
 
-You can check how to start the video system at :ref:`video-instructions`.
+You can check how to start the video system at :ref:`video-instructions-avatar`.
 
 .. note::
 
